@@ -1,0 +1,80 @@
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Book with id 1 not found.","level":"error"}
+{"message":"Book with id 1 not found.","level":"error"}
+{"message":"Book with id c1831feb-8bb6-4d1a-974b-03f663b8c576 created","level":"info"}
+{"message":"Unauthorized request to path /bookmarks/c1831feb-8bb6-4d1a-974b-03f663b8c576","level":"error"}
+{"message":"Book with id c1831feb-8bb6-4d1a-974b-03f663b8 not found.","level":"error"}
+{"message":"Book with id c1831feb-8bb6-4d1a-974b-03f663b8c576 not found.","level":"error"}
+{"message":"Book with id 933c9e5c-120c-4c30-baaf-08d2ccc9fea6 created","level":"info"}
+{"message":"Card with id 933c9e5c-120c-4c30-baaf-08d2ccc9fea6 deleted.","level":"info"}
+{"message":"Invalid URL format","level":"error"}
+{"message":"Invalid URL format","level":"error"}
+{"message":"Book with id e51d52ea-edf2-4af7-86c2-743eefc51576 created","level":"info"}
+{"message":"Book with id e51d52ea-edf2-4af7-86c2-743eefc51576 not found","level":"error"}
+{"message":"Book with id 5d39443b-c22a-4dd4-817b-78dbfecb0d7e created","level":"info"}
+{"message":"Card with id 5d39443b-c22a-4dd4-817b-78dbfecb0d7e deleted.","level":"info"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /asdf","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /1","level":"error"}
+{"message":"Unauthorized request to path /1","level":"error"}
+{"message":"Unauthorized request to path /1","level":"error"}
+{"message":"Unauthorized request to path /1","level":"error"}
+{"message":"Unauthorized request to path /1","level":"error"}
+{"message":"Book with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/1","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/1","level":"error"}
+{"message":"Title not found","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid URL format","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Book with id 97bfe20d-d2ae-426f-8d96-0a3c3d74beb9 created","level":"info"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Book with id 5f18ff13-a40d-4d86-95dc-bbeb905c4651 created","level":"info"}
+{"message":"Book with id 66ee2cfe-78b4-46a7-bd4c-17ab1183f233 created","level":"info"}
+{"message":"Book with id 090392e1-da0b-4da1-bedf-005ffda70724 created","level":"info"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/090392e1-da0b-4da1-bedf-005ffda70724","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/090392e1-da0b-4da1-bedf-005ffda70724","level":"error"}
+{"message":"Book with id 2f0f279f-dd46-4b4f-b818-cdd25b024b4e created","level":"info"}
+{"message":"Book with id c788e3e8-d042-41a8-af5f-d0520c79a023 created","level":"info"}
+{"message":"Card with id c788e3e8-d042-41a8-af5f-d0520c79a023 deleted.","level":"info"}
+{"message":"Book with id c788e3e8-d042-41a8-af5f-d0520c79a023 not found.","level":"error"}
+{"message":"Book with id 0240bed6-a0f7-476a-a60c-ca23b8b7cc1f created","level":"info"}
+{"message":"Book with id aa3d4888-0b08-4618-b240-93ef057ed285 created","level":"info"}
+{"message":"Book with id a3f89532-c8cb-4197-9eb9-2e4bc24d8e05 created","level":"info"}
+{"message":"Book with id 2a2baaee-646e-4ff0-a818-eea3a604edaf created","level":"info"}
+{"message":"Card with id 0240bed6-a0f7-476a-a60c-ca23b8b7cc1f deleted.","level":"info"}
+{"message":"Book with id 0240bed6-a0f7-476a-a60c-ca23b8b7cc1f not found.","level":"error"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Book with id c2a74ef7-28f7-43cc-9231-6eb102a1632c created","level":"info"}
+{"message":"Book with id 9a590256-0993-4afc-a3f0-be4c320d99c5 created","level":"info"}
+{"message":"Invalid rating number","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
+{"message":"Unauthorized request to path /favicon.ico","level":"error"}
